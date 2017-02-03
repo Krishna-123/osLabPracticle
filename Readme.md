@@ -1,4 +1,5 @@
 This is the first day practicle of the os lab...
 hope it is the useful...
 
-thanku!!!by the V.Krishna Agarwal
+thanku!!!
+   by the V.Krishna Agarwal
