@@ -1,0 +1,4 @@
+ name Temperature wheather 
+ sun	10  very_cold 
+ mon 25 Hot 
+ tue 35 very_Hot 
